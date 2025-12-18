@@ -1,0 +1,14 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore environment files
+.env
+.env.*
+
+logs
+.cache
+puppeteer_data
+cookies.json
+cookies.txt
+backup
+venv/
