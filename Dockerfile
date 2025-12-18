@@ -26,4 +26,8 @@ RUN npm install --legacy-peer-deps --production
 COPY . .
 
 EXPOSE 8080
+<<<<<<< HEAD
 CMD ["npm", "start"]
+=======
+CMD ["npm", "start"]
+>>>>>>> ab2ec3c18ede1111e9a86e76ec9ff8612c9432f6
