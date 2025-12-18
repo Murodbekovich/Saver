@@ -7,8 +7,8 @@ const LOG_TYPE = {
 };
 
 const ERROR_TYPE = {
-    RATE_LIMIT: "Encountered Rate Limit 😢.",
-    FAILED: "Failed 😢.",
+    RATE_LIMIT: "Limitga mos kelmadi 😢.",
+    FAILED: "Xatolik 😢.",
 };
 
 const ACTION = {
